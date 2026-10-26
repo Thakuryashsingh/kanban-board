@@ -1,4 +1,4 @@
-import BoardPage from "./pages/boardPage";
+import BoardPage from "./pages/BoardPage.jsx";
 
 
 function App() {
